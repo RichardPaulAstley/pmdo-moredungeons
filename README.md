@@ -12,6 +12,7 @@ Assuming that you've already setup PDMO, just download the content of the repo (
 
 To avoid any conflict with other mods, we'll try to take care of the IDs and make things as clean as possible : 
 * ID 55 : Gauntlet Cave
+    * Bug to fix : Fixing the Key for the Vaults areas
 * ID 56 : Power Plant
     * Bug to fix : Remove Chansey / Sandshrew from the dungeon
 * ...
